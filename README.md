@@ -1,4 +1,4 @@
-<h3 align="left"> About Me</h3>
+<h2 align="left"> About Me </h2>
 A Software Engineer with a passion for writing clean, maintainable code.
 Experience in writing code that supports multiple platforms, mainly: Windows, Linux, and Mac, but has also worked on SPARC and AIX.
 Strongest Languages are: C, C++, Java, and JavaScript.
@@ -10,6 +10,8 @@ Strongest Languages are: C, C++, Java, and JavaScript.
  [![github stats](https://bad-apple-github-readme.vercel.app/api?username=elizabethharasymiw&show_icons=true&count_private=true&line_height=20icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elizabeth-ann-harasymiw-5341591b4/" target="_blank">
