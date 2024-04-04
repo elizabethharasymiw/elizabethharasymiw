@@ -14,8 +14,13 @@
 <!--
 **elizabethharasymiw/elizabethharasymiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- [![current streak](https://streak-stats.demolab.com/?user=elizabethharasymiw&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![current streak](https://streak-stats.demolab.com/?user=elizabethharasymiw&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=elizabethharasymiw&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/elizabethharasymiw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/elizabethharasymiw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=elizabethharasymiw)
 
 -->
