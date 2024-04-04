@@ -1,7 +1,3 @@
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
-
 <h3 align="left"> About Me</h3>
 A Software Engineer with a passion for writing clean, maintainable code.
 Experience in writing code that supports multiple platforms, mainly: Windows, Linux, and Mac, but has also worked on SPARC and AIX.
@@ -28,6 +24,10 @@ Strongest Languages are: C, C++, Java, and JavaScript.
 
 <!--
 **elizabethharasymiw/elizabethharasymiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 
 [![current streak](https://streak-stats.demolab.com/?user=elizabethharasymiw&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
