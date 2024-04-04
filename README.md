@@ -1,3 +1,7 @@
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 <h3 align="left"> About Me</h3>
 A Software Engineer with a passion for writing clean, maintainable code.
 Experience in writing code that supports multiple platforms, mainly: Windows, Linux, and Mac, but has also worked on SPARC and AIX.
@@ -16,6 +20,10 @@ Strongest Languages are: C, C++, Java, and JavaScript.
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
 </div>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 <!--
