@@ -1,7 +1,7 @@
 <h2 align="left"> About Me </h2>
 A Software Engineer with a passion for writing clean, maintainable code.
 Experience with writing code that supports multiple platforms, mainly: Windows, Linux, and Mac.
-Primarily works on backend projects written in C, C++, Java, and JavaScript.
+Primarily works on backend projects written in C++, Java, and JavaScript.
 
 ###
 
